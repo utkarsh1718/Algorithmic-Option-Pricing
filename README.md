@@ -22,4 +22,4 @@ The main objective of this project was to explore how shifting option pricing pr
 
   required by the Discrete Fourier Transform.
 
-- **Streamlit Dashboard:** Provides an interactive interface to modify market inputs, adjust Variance Gamma parameters, and visualize pricing results alongside the analytical Black-Scholes benchmark, highlighting the **volatility smile**.
+
